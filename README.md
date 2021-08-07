@@ -8,3 +8,6 @@ Mukhamad Azis Tholib
 
 Muhammad Oktavyan Hardiyono 
 (oktavyanhardiyono@gmail.com)
+
+Reta Lola Oftaviana
+(retalola22@gmail.com)
