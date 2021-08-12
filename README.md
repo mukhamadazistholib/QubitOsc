@@ -1,3 +1,4 @@
+
 # QubitOsc
 Calculation of a Qubit-Oscillator system using QuTiP
 
@@ -12,3 +13,8 @@ Calculation of a Qubit-Oscillator system using QuTiP
 (retalola22 at gmail dot com)
 
 
+- A. R. T. Nugraha
+(art dot nugraha at gmail dot com)
+
+first editing by Reta
+first editing by vyan
