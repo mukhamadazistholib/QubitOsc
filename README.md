@@ -14,4 +14,3 @@ Calculation of a Qubit-Oscillator system using QuTiP
 
 - A. R. T. Nugraha
 (art dot nugraha at gmail dot com)
-
